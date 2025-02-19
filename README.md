@@ -5,6 +5,7 @@ Monitoramento Profissional de Rede em Pythom Sem a necessidade de um servidor DN
 
 0 - Acesse o código e insira o nome da sua interface de rede, que está na linha 12.
 Exemplo: INTERFACE = "enp0s3"
+
 1 - Requisitos
 Antes de rodar o sistema, instale os pacotes necessarios executando o seguinte comando:
 ```sh
