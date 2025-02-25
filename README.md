@@ -12,7 +12,7 @@ Antes de rodar o sistema, instale os pacotes necessarios executando o seguinte c
 sudo apt update && sudo apt install -y python3 python3-pip python3-venv libpcap-dev
 ```
 ```sh
-pip install dash dash-bootstrap-components scapy pandas plotly scikit-learn
+pip install dash dash-bootstrap-components scapy pandas plotly scikit-learn requests
 
 ```
 2 - Criando um Ambiente Virtual (Opcional, mas Recomendado)
