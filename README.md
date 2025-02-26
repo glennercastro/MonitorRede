@@ -3,7 +3,7 @@ Monitoramento Profissional de Rede em Pythom Sem a necessidade de um servidor DN
 
 # OBS: Fique à vontade para copiar, usar ou modificar o código conforme necessário. Só peço que me mandem as alterações para eu também poder aprender e aproveitá-las.
 
-0 - Acesse o código e insira o nome da sua interface de rede, que está na linha 12.
+0 - Acesse o código e insira o nome da sua interface de rede, que está na linha 19.
 Exemplo: INTERFACE = "enp0s3"
 
 1 - Requisitos
